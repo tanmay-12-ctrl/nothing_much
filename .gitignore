@@ -1,2 +1,11 @@
+# Ignore compiled binaries
 *.exe
+*.out
+
+# Ignore IDE settings
 .vscode/
+.idea/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
